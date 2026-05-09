@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Himani Kotnala 👋
 
-<!--
-**himanikotnala/himanikotnala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student passionate about Data Analytics, Web Development, and Problem Solving.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Java
+- SQL
+- Excel
+- Power BI
+- HTML, CSS, JavaScript, React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Hospital Emergency Room Dashboard
+- Coffee Shop Website
+- Placement Preparation System
+
+## Certifications
+- Python Programming – Udemy
+- Oracle Cloud Infrastructure 2025 Generative AI Professional
+- coCubes Assessment: 524/800
+
+## Connect With Me
+- LinkedIn: [Himani Kotnala](https://www.linkedin.com/in/himani-kotnala-30a532311/)
