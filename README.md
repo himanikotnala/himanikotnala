@@ -4,7 +4,6 @@ Computer Science student passionate about Data Analytics, Web Development, and P
 
 ## Skills
 - Python
-- Java
 - SQL
 - Excel
 - Power BI
@@ -12,6 +11,8 @@ Computer Science student passionate about Data Analytics, Web Development, and P
 
 ## Projects
 - Hospital Emergency Room Dashboard
+- Blinkit_sales_and_revenue dashboard
+- pizza_sales dashboard
 - Coffee Shop Website
 - Placement Preparation System
 
